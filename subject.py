@@ -1,3 +1,4 @@
+from person import Teacher
 class Subject:
     def __init__(self,name,teacher,maxmarks,passmarks):
         self.name = name
